@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-<strong>Netflix Analytics Dashboard:</strong> Designed an interactive Power BI dashboard to analyze ratings and votes across movies and shows by country, genre, and title. Key features included dynamic filters, KPI cards, gradient-based bar charts, and map visualizations for geographic insights. Integrated search and sorting capabilities, conditional formatting, and DAX calculations to enhance data exploration and storytelling. <strong>Tools used:</strong> Power BI, DAX, SQL, and advanced data modeling techniques.
+<strong>Netflix Analytics Dashboard:</strong> Designed an interactive Power BI dashboard to analyze ratings and votes across movies and shows by country, genre, and title. Key features included dynamic filters, KPI cards, gradient-based bar charts, and map visualizations for geographic insights. Integrated search and sorting capabilities, conditional formatting, and DAX calculations to enhance data exploration and storytelling. <strong>Tools used:</strong> Power BI, DAX, SQL.
 
 ## Data Preparation and Ingestion
 
